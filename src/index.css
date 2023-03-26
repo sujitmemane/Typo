@@ -1,0 +1,21 @@
+html{
+  font-size: 85%;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+section{
+  margin-top:1em;
+}
+.container{
+  width:50%;
+  margin:0 auto;
+}

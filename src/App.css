@@ -1,0 +1,9 @@
+.heading{
+  margin-top:1em;
+  color: #2d2e32;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  gap:10px;
+  justify-content: center;
+}
